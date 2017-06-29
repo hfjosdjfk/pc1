@@ -1,0 +1,8 @@
+git init 初始化
+git add 将工作文件修改提交到本地暂存区
+git commit -m 将文件提到本地库
+$ git remote add origin git@github.com:mysex/myGG.git把本地库的内容关联到远程库
+$ git push origin master把本地库的内容推送到远程库
+ssh-keygen -t rsa -C  “youremail@example.com” 获取秘钥
+git config --global user.name"Your Name" 创建门户名字
+git config --global user.email"email@example.com"创建邮箱
